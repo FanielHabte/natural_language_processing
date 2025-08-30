@@ -53,8 +53,8 @@ _(Diagram is highly recommended — e.g., from raw → staging → curated → d
 ---
 
 ## 📊 Dashboards & Reports
-- **QuickSight:** [Engagement Dashboard](https://quicksight.aws.amazon.com/)  
-- **Tableau:** `TableauServer > Sustainability > Monthly Carbon Insights`  
+- **QuickSight:** [Dashboard](https://quicksight.aws.amazon.com/)  
+- **Tableau:** `TableauServer `  
 - **Exports:** S3 `s3://bucket/exports/` (CSV, Parquet)  
 
 ---
